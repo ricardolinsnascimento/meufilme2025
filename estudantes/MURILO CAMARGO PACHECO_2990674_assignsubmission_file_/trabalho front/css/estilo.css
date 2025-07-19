@@ -1,0 +1,53 @@
+body{
+    color: white;
+    font-family: Helvetica Regular, sans-serif;
+    text-align: center;
+}
+
+
+#se{
+    font-size: 27px;
+}
+
+.es{
+    font-size: 30px;
+}
+
+#historia{
+    background-color: #98FF98;
+}
+
+h2{
+   font-size: 35px;
+}
+
+
+#personagem{
+    background-image: url(../img/background2.png);
+    text-align: center;
+    font-size: 55px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+p{
+    font-size: 35px;
+}
+
+h4{
+    font-size: 30px;
+}
+
+#index{
+    background-image: url(../img/background.png);
+}
+.ss{
+    font-size: 55px;
+}
+
+footer{
+    font-size: 35px;
+    
+}

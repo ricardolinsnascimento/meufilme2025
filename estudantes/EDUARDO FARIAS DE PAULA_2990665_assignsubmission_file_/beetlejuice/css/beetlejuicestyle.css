@@ -1,0 +1,76 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    background-image: url(../img/fundo.jpg);
+}
+h1{
+    color: rgb(61, 202, 42);
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+h2{
+    color: rgb(61, 202, 42);
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+p{
+    color: rgb(61, 202, 42);
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.info1{
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+
+}
+.info2{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.elenco{
+    background-image: url(../img/fundo2.jpg);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h3{
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.links{
+    background-image: url(../img/fundo2.jpg);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+footer{
+    padding: 10px;
+    background-image: url(../img/fundo2.jpg);
+}
+.info3{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}

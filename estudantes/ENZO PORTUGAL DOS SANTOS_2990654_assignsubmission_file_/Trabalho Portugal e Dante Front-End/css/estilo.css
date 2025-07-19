@@ -1,0 +1,31 @@
+body{
+	background-color: #1B263B;
+	font-family: sans-serif;
+}
+.escrita{
+	color: 	#F4F1DE;
+	font-size: 20px;
+}
+.titulo{
+	text-align: center;
+}
+.descricao{
+	padding: 5px 15px 5px 15px;
+}
+h3{
+	color: 	#ffcc00;
+}
+h4{
+	margin: 10px 1000px 30px 0px;
+}
+.link{
+	border-style: solid;
+	background-color:#ffcc00 ;
+	text-align: center;
+}
+footer{
+	background-color: #ffcc00;
+	text-align: center;
+	padding: 50px 10px 50px 10px;
+	margin-top: 20px
+}

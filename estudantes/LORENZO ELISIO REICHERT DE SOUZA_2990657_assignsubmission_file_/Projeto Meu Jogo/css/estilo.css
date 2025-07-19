@@ -1,0 +1,76 @@
+/* Estilos básicos do corpo da página */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("../img/index/bb.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+
+/* Container centralizado com fundo semi-transparente */
+.container {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  margin: 40px auto;
+  max-width: 800px;
+  border-radius: 10px;
+}
+
+/* Cores dos títulos */
+h1 {
+  color: #ffcc00;
+}
+
+h2 {
+  color: #ff9900;
+}
+
+h3 {
+  color: #ffaa00;
+}
+
+/* Lista com marcadores quadrados */
+ul {
+  list-style-type: square;
+}
+
+/* Estilo básico dos links */
+a {
+  color: #00ccff;
+  text-decoration: none;
+}
+
+/* Sublinhado ao passar o mouse */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Imagens com cantos arredondados */
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+/* Rodapé com fundo escuro */
+footer {
+  background-color: #111;
+  color: #aaa;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.8em;
+}
+
+/* Estilo para figuras e legendas */
+figure {
+  margin-top: 20px;
+  text-align: center;
+}
+
+figcaption {
+  color: #ccc;
+  font-style: italic;
+  margin-top: 5px;
+}

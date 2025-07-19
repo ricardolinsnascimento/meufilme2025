@@ -1,0 +1,45 @@
+img{
+	margin-top: 0px;
+	margin-right: 660px;
+	margin-left: 360px;
+	height: 350;
+	width: 1050;
+}
+button#info{
+	
+	display: block;
+	margin-top: 50;
+	margin-right: 600;
+	margin-left: 720;
+	border: 230948;
+	border-radius: 98234789px;
+	background-color: #7B68EE;
+	width: 420px;
+	height: 55px;
+	font-size: 40;
+	color: #0000CD;
+	cursor:hand;	
+
+
+}
+
+button#jovem{
+	
+	display: block;
+	margin-right: 600;
+	margin-left: auto;
+	margin-bottom: auto;
+	border: 230948;
+	border-radius: 98234789px;
+	background-color: #7B68EE;
+	width: 420px;
+	height: 55px;
+	font-size: 40;
+	color: #0000CD;
+	cursor:hand;	
+
+}
+
+button:hover{
+	transform:scale(1.05);
+}

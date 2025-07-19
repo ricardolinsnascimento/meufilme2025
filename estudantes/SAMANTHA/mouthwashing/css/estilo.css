@@ -1,0 +1,60 @@
+/* estilo.css */
+
+body {
+    background-color: #0e0e0e; /* Fundo preto profundo */
+    color: #e0dede; /* Cinza claro para contraste */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0 20px;
+}
+
+h1, h2 {
+    color: #ff4c4c; /* Vermelho ameaçador */
+    text-shadow: 1px 1px 4px #000000;
+}
+
+h3 {
+    color: #d3cfcf;
+    font-weight:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+p {
+    color: #cccccc;
+    
+}
+
+figure img, img {
+    border: 3px solid #ff4c4c; /* Borda vermelha intensa */
+
+  
+    max-width: 100%;
+    height: auto;
+    
+    margin: 20px auto;
+}
+
+section {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border: 2px solid #333;
+    margin: 20px 0;
+}
+
+a {
+    color: #f1c40f; /* Amarelo pôr do sol */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+footer {
+    background-color: #1a1a1a;
+    color: #999;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    border-top: 2px solid #444;
+    margin-top: 40px;
+}

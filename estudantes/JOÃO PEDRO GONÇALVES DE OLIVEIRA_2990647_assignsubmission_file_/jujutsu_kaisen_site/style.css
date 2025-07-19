@@ -1,0 +1,105 @@
+body {
+  font-family: Segoe UI, Tahoma, Gevana, Verdana, sans-serif;
+  margin: 0;
+  background-color: #0b0c10;
+  color: #e0e0e0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #05bc0f8;
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+h2 {
+  color: #05bc0f8;
+  margin-bottom: 30px;
+}
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+sinopse {
+  margin: 20px 0
+}
+a {
+display: inline-block;
+background-color: #0b0c10;
+color: #00ccff;
+padding: 10px 15px;
+margin: 5px;
+border-radius: 8px;
+text-decoration: none;
+font-weight: bold;
+transition: 0.3s;
+border: 2px solid #00ccff;
+}
+
+a:hover {
+ background-color: #00ccff;
+ color: #0b0c10;
+ box-shadow: 0 0 10px #00ccff;
+}
+
+.imagem-capa {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 12px;
+  margin: 30px 0;
+  box-shadow: 0 0 15px #5bc0f8 ;
+}
+
+.botoes{
+margin-top: 30px;
+}
+
+.botao {
+  display: inline-block;
+  background-color: #5bc0f8;
+  color: #0b0c10;
+  padding: 12px 20px;
+  margin: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.botao:hover {
+background-color: #40a9d6;  
+}
+
+.foto {
+width: 220px;
+max-width: auto;
+border-radius: 10px;
+box-shadow: 0 0 10px #5bc0f8;
+margin-bottom: 20px;
+display: block;
+}
+
+footer {
+  margin-top: 40px;
+  padding-top: 10px;
+  background-color: #1c1c1c;
+  border-top: 2px solid #5bc0f8;
+  font-size: 14px;
+  text-align: center;
+  color: #ccc;
+  box-shadow: 0 -5px 15px rgba(91, 192, 248, 0.2);
+  border-radius: 10px 10px 0 0;
+  font-style: italic;
+}
+footer::before{
+  content: : "\2728"; /*Emoji estrela brilhante */
+}
+footer::after {
+  content: : \2728;
+}

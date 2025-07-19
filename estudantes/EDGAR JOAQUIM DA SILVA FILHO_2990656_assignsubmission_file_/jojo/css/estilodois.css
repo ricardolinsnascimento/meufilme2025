@@ -1,0 +1,48 @@
+body {
+	background-image: url(../img/jojo.jpg);
+	background-size: 2000px 1500px;
+	font-family: Arial, sans-serif;
+	background-color: #2B2D42;
+	color: #f4f4f4;
+	line-height: 1.6;
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	color: #ffcc00;
+}
+
+h2 {
+	color: #87ceeb;
+}
+
+li {
+	color: #2ecc71;
+	list-style: none;
+	font-size: 60;
+}
+
+{
+	margin-bottom: 20px;
+}
+
+ul {
+	list-style-type: square;
+}
+
+p {
+	color: #ffcc00;
+}
+
+{
+	font-weight: bold;
+	color: #87ceeb;
+}
+
+footer{
+	padding: 10px;
+	color: #f4f4f4 ;
+	background-color: green;
+	text-aling: center; 
+}

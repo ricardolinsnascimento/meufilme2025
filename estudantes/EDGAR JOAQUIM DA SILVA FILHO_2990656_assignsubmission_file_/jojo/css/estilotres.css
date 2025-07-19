@@ -1,0 +1,51 @@
+  body {
+  background-color: #1e1e2f;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  }
+
+  h1 {
+  text-align: center;
+  color: #ffcc00;
+  }
+
+  h2 {
+  color: #87ceeb;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  }
+
+  .dublador {
+  background-color: #6f42c1;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  }
+
+  .personagem {
+  font-weight: bold;
+  color: #ffcc00;
+  }
+
+  .voz {
+  color: #87ceeb;
+  margin-top: 4px;
+  }
+
+  .curiosidades {
+  background-color: #2b2d42;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 30px;
+  }
+
+  ul {
+  padding-left: 20px;
+  }
+
+  footer{
+  padding: 10px;
+  color: #f4f4f4 ;
+  background-color: green;
+  text-aling: center; 
+  }

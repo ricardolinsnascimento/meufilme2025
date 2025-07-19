@@ -1,0 +1,51 @@
+body {
+	background-image:url(../img/annee.jpg);
+	font-size: 30px;
+	color:#FFA07A;
+	text-shadow: 8px 8px 10px #1C1C1C;
+	text-align: center;
+
+	/*text-align: center;*/
+	font-family: inconsolata, monospace;
+}
+
+h1{
+	color:#2C3E50;
+	text-shadow: 5px 5px 8px #FFFFFF;
+	/*cor verde*/
+	font-family: Georgia, Times new Roman;
+	margin-right: 60px;
+	margin-left: 60px;
+	margin-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+ol{border-color: #2C3E50;
+	border-style: dotted;
+	border-width: 2px
+
+
+}
+li{
+	color:#2C3E50;
+	font-size: 25px
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+a{	color:#2C3E50
+	font-size:25PX
+
+}
+h3{color:#2C3E50;
+	font-size: 60px;
+	text-shadow: 5px 5px 8px #FFFFFF;
+	
+
+}
+footer{
+	padding: 5px;
+	color: #ffffff;
+	background-color: #2C3E50;
+	text-align: center;
+}

@@ -1,0 +1,239 @@
+body{
+    font-family: serif;
+	text-align: center;
+	background-color: rgb(0 0 0);
+	color: rgb(255, 255, 255);
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-size: 60px;
+	margin: 40px 0 10px;
+	text-align: center;
+}
+h2{
+	font-size: 40px:;
+   font-family: sans-serif;
+   margin: 20px;
+   text-align: center;
+}
+h3{
+	font-size: 40px:;
+   font-family: sans-serif;
+   margin: 20px;
+   text-align: center;
+}
+h4{
+	font-size: 40px:;
+   font-family: sans-serif;
+   margin: 20px;
+   text-align: center;
+}
+h5{
+	font-size: 40px:;
+   font-family: sans-serif;
+   margin: 20px;
+   text-align: center;
+}
+p{
+  font-family:serif;
+  margin: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.borda{
+	border-radius: 3px;
+	border-style: solid;
+}
+.ben{
+    width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+	text-align: center;
+	border-radius: 0px;
+}	
+#bk{
+	background-color: rgb(0 0 0);
+}
+.gwen{
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(73, 180, 184);
+	padding: 5px;
+	text-align: center;
+	border-radius: 0px;
+}
+#gw{
+	background-color: rgb(0 0 0);
+}
+.max{
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(231, 71, 15);
+	padding: 5px;
+	text-align: center;
+	border-radius: 0px;
+}
+#mx{
+	background-color: rgb(0 0 0);
+}
+.kevin{
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(255, 255, 255);
+	padding: 5px;
+	text-align: center;
+	border-radius: 0px;
+}
+#kev{
+	background-color: rgb(0 0 0);
+}
+a{
+	 width: 200px;
+	margin: 20px auto;
+	margin-bottom: 50px;
+	color: rgb(0 0 0);
+	background-color: rgb(92, 169, 42);
+	padding: 10px;
+	text-align: center;
+	border-radius: 0px;
+}
+ul{
+	padding-left: 0px;
+}
+.bn h1{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+}
+.bn{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 0px;
+}
+#lly{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(73, 180, 184);
+	padding: 5px;
+}
+.lly{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 0px;
+}
+#bala{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+}
+#aqut{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+}
+#chm{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+}
+#inse{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+}
+#mss{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	background-color: rgb(92, 169, 42);
+	padding: 5px;
+}
+#kkv{
+   font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: dotted;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	color: rgb(0 0 0);
+	background-color: rgb(255, 255, 255);
+	padding: 5px;   
+}
+.vin{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 0px;
+}
+#well{
+	font-size: 30px;
+	font-family:serif;
+	text-align: center;
+	border-radius: 3px;
+	border-style: dotted;
+	width: 400px;
+	margin: 5px auto;
+	margin-bottom: 50px;
+	color: rgb(0 0 0);
+	background-color: rgb(231, 71, 15);
+	padding: 5px;   
+}
+.tenn{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 0px;
+}

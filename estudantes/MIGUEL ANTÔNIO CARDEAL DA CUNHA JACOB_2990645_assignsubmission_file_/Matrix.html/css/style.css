@@ -1,0 +1,91 @@
+body{
+  
+  text-align: center;
+}
+ /* fundo*/
+ body {
+      margin: 0;
+      padding: 0;
+      height: 600px;
+      background-image: url('img/fundomatrix2.0.avif ');
+      background-size: cover;        /*cobre a tela*/
+      background-position: center;    /* deixa a imagem no centro */
+      background-repeat: no-repeat;   /* não deixa a imagem ficar repetida na tela*/
+      background-attachment: fixed;
+      font-family:Arial, Helvetica,  sans-serif; 
+}
+/* logo*/ 
+ .minha-imagem {
+      width: 300px;    
+      height: auto;     
+      display: block;
+      margin: 20px auto; 
+ }
+ /* diretoras*/
+  .minha-imagem1 {
+    width: 250px;
+    height: auto;
+    display: inline-block;
+    margin: 10px;
+   
+  }
+
+  .centro {
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+
+body{
+ color: #0f0;
+}
+/* contorno da div*/
+.ator {
+  background-color: #111;
+  color: #0f0;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border: 1px solid #0f0;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+
+/* links*/
+
+.botao-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  padding: 20px;
+}
+/* links*/
+.botao-container a {
+  background-color: #0f0; 
+  color: #000;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: 0.3s ease;
+  font-family: Arial, sans-serif;
+}
+ /* links*/
+.botao-container a:hover {
+  background-color: #0b0;
+  color: #fff;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #0f0;
+}
+
+/* rodapé*/
+footer{
+padding: 20px;
+color: #0f0;
+background-color: #111;
+text-align: center;
+}
+

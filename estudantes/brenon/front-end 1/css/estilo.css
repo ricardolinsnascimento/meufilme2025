@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(0, 0, 0);
+  font-family: courier, verdana, arial;
+  margin: 30px 40px 30px 40px;
+  text-align: center;
+  color:rgb(255,255,255);      
+}
+h1{
+   color:rgb(0,250,154);
+   background-image: url(logo.png);
+   text-align: center;
+}
+li{
+   color:rgb(0,250,154);
+   font-size: 40px;
+   list-style: none;	
+}
+ul{
+	border-style: double;
+	border-color: rgb(10,10,10);
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+footer{
+  border-style: double;
+  border-color: rgb(10,10,10);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(0,0,0);
+}

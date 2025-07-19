@@ -1,0 +1,74 @@
+body {
+  background-color: #000000; 
+  color: #FFFFFF; 
+  font-family: 'Press Start 2P', monospace; 
+  margin: 0; 
+  padding: 20px; 
+  text-align: center; 
+}
+
+
+h1 {
+  font-size: 35px; 
+  margin-bottom: 30px; 
+  color: #D1C111; 
+    padding: 10px; 
+}
+h2 {
+  font-size: 24px; 
+  color: #FFFFFF; 
+  margin-bottom: 20px;
+  text-align: center; 
+}
+
+
+.container {
+  max-width: 800px; 
+  margin: 80px auto; 
+  padding: 40px; 
+  border: 2px solid #FFFFFF; 
+  text-align: center;
+}
+
+
+.img-top {
+  margin-bottom: 20px; 
+}
+
+
+.sinopse {
+  font-size: 14px; 
+  line-height: 1.8; 
+  margin-bottom: 30px; 
+}
+
+
+.info {
+  list-style: none;
+  padding: 0; 
+  font-size: 13px; 
+}
+
+.info li {
+  margin-bottom: 10px; 
+}
+
+.link2 {
+  color: #FFFFFF; 
+  text-decoration: none; 
+  padding: 5px 10px; 
+  border: 2px solid #FFFFFF; 
+}
+
+.link2:hover {
+  background-color: #FF0E0E; 
+  color: #000000; 
+}
+
+
+footer {
+  background-color: #B23131; 
+  padding: 05px; 
+  color: #A1A0A0; 
+  text-align: center; 
+  margin-top: 30px; 

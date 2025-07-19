@@ -1,0 +1,130 @@
+.personagens{
+	text-align: center;
+	background-color: #242F0D;
+	margin-left: 45vw;
+	margin-right: 45vw;
+	margin-top: 50px;
+	color: white;
+
+}
+.personagens2{
+	text-align: center;
+	background-color: #45170C;
+	margin-left: 45vw;
+	margin-right: 45vw;
+	margin-top: 50px;
+	color: white;
+
+}
+.imagem{
+	height: 40vh;
+	width: auto;
+	border: solid;
+}
+.imagemCentralizada{
+	display: flex;
+	justify-content: center;
+}
+p{
+	font-size: 25px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: rgb(36, 47, 15, 0.75);
+	color: #E5F2CA;
+	padding: 8px;
+}
+.p{
+	font-size: 25px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: rgb(96, 18, 0, 0.75);
+	color: #E5F2CA;
+	padding: 8px;
+}
+.banner{
+	display: flex;
+	justify-content: center;
+	width: 98,5vw;
+	background-color: #0B3225;
+
+}
+.imagem{
+	height: 528px;
+}
+body{
+	background-image: url(../img/Riverbackground.jfif);
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: #BCD48C;
+
+}
+#fundo1{
+	background-image: url(../img/AcampamentoThunderclan.jfif);
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: #548C7A;
+}
+.titulo3{
+	text-align: center;
+	background-color: #242F0D;
+	margin-left: 35vw;
+	margin-right: 35vw;
+	margin-top: 50px;
+	color: white;
+	font-size: 50px;
+}
+#fundo2{
+	background-image: url(../img/FundoNovel3.jfif);
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: #FE9772;
+}
+.linklivros{
+	text-align: center;
+	color: white;
+}
+a{
+	color: white;
+}
+#footerpersonagens{
+	background-color: rgb(96, 18, 0);
+	text-align: center;
+	height: 60px;
+	text-align: center;
+
+}
+#textofooter{
+	background-color: rgb(96, 18, 0);
+	color: #E5F2CA;
+}
+.footerpersonagens2{
+	background-color: rgb(36, 47, 15);
+	text-align: center;
+	height: 60px;
+	text-align: center;
+
+}
+.textofooter2{
+	background-color: rgb(36, 47, 15);
+	color: #E5F2CA;
+}
+.livros{
+	text-align: center;
+	background-color: #242F0D;
+	margin-left: 45vw;
+	margin-right: 45vw;
+	margin-top: 50px;
+	color: white;
+}
+ul{
+	font-size: 20px;
+	text-align: center;
+	list-style: none;
+	color:  #E5F2CA;
+	background-color: rgb(36, 47, 15);
+	margin-left: 45vw;
+	margin-right: 45vw;
+}

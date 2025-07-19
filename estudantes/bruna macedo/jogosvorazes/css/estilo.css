@@ -1,0 +1,153 @@
+#inicio{
+	background-image:url(../img/fundou.jpg);
+	font-family: sans-serif;
+	margin:20px 40px 10px 40px;
+	text-align: center;
+	border-color: #FFFF99;
+	border-style: solid;
+	border-width: 3px;
+}
+
+#um{
+	color:	#FFFF99;
+	text-shadow: 2px 2px 5px #000000;
+	background-image: url(../img/fundo.jpg);
+	text-align:center;
+	margin-left:80px;
+	margin-right:80px;
+	margin-bottom:30px;
+	margin-top: 30px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+h2{
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	font-size: 35px;
+}
+h3{
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	font-size: 30px;
+}
+p{
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	font-size: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+
+a{
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	font-size: 30px;
+	margin-bottom:30px;
+	margin-top: 20px;
+	border-color: ;
+}
+footer{
+	background-color:#4A5A40;
+	color:	#E4E1D3;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	margin-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+#corpo{
+	background-image: url(../img/fundo1.jpg);
+	font-family: sans-serif;
+	margin:20px 40px 10px 40px;
+	text-align: center;
+	border-color: #FFFF99;
+	border-style: solid;
+	border-width: 3px;
+}
+#topo{
+	background-image: url(../img/texto.jpg);
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	text-align:center;
+	margin-left:0px;
+	margin-right:80px;
+	margin-bottom:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-left:80px;
+	margin-right:80px;
+	margin-bottom:30px;
+	margin-top: 30px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#topo2{
+	background-image: url(../img/texto2.jpg);
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	text-align:center;
+	margin-left:0px;
+	margin-right:80px;
+	margin-bottom:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-left:80px;
+	margin-right:80px;
+	margin-bottom:30px;
+	margin-top: 30px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#corpo2{
+	background-image: url(../img/fundo2.jpg);
+	font-family: sans-serif;
+	margin:20px 40px 10px 40px;
+	text-align: center;
+	border-color: #FFFF99;
+	border-style: solid;
+	border-width: 3px;
+}
+#topo3{
+	background-image: url(../img/texto3.jpg);
+	color:	#FFFF99;
+	text-shadow: 5px 5px 10px #000000;
+	text-align:center;
+	margin-left:0px;
+	margin-right:80px;
+	margin-bottom:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-left:80px;
+	margin-right:80px;
+	margin-bottom:30px;
+	margin-top: 30px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#corpo3{
+	background-image: url(../img/fundo3.jpg);
+	font-family: sans-serif;
+	margin:20px 40px 10px 40px;
+	text-align: center;
+	border-color: #FFFF99;
+	border-style: solid;
+	border-width: 3px;
+}
+img{
+	border-color: #FFFF99;
+	border-style: solid;
+	border-width: 3px;
+}
+li{
+	color:	#FFFF99;
+	text-shadow: 2px 2px 5px #000000;
+	font-size: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}-

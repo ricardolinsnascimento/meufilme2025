@@ -1,0 +1,29 @@
+img{
+	margin-top: 0px;
+	margin-right: 660px;
+	margin-left: 660px;
+	height: 350;
+	width: 550;
+}
+button{
+
+	display: block;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto; 
+	border: 230948;
+	border-radius: 98234789px;
+	background-color: #7B68EE;
+	width: 420px;
+	height: 55px;
+	font-size: 40;
+	color: #0000CD;
+	cursor:hand;
+
+}
+
+button:hover{
+
+	transform:scale(1.05);
+
+}

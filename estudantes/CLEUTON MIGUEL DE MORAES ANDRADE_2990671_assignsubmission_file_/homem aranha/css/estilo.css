@@ -1,0 +1,62 @@
+
+ p{font-size :40px:;}
+
+
+ .intro{
+  text-align: center;
+ }
+
+
+body {
+  background-image: url(../img/tela.png);
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: blue;}
+
+
+
+.imagem-elenco {
+  width: 200px;
+  height: auto;
+}
+
+ {kground-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Caixa de conteúdo com fundo escuro semi-transparente */
+.conteudo {
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo escuro translúcido */
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+.botao-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff3c00;  /* Cor de fundo do botão */
+  color: white;               /* Cor do texto */
+  text-decoration: none;      /* Remove o sublinhado */
+  border: none;
+  border-radius: 8px;         /* Cantos arredondados */
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin: 5px;
+}
+
+.botao-link:hover {
+  background-color: #cc3100;  /* Cor ao passar o mouse */
+}
+.logo {
+  display: flex; /* Usa Flexbox para facilitar o alinhamento */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente, se necessário */
+}
