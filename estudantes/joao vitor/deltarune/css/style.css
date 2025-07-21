@@ -1,0 +1,85 @@
+/* Estilo compartilhado para index.html e personagens.html */
+
+/* Plano de fundo */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url("../img/deltarune.png");
+  background-size: cover;
+}
+
+p{
+  text-align: center;
+  font-family: inherit;
+}
+
+/* Cabeçalho */
+header {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  color: #fff;
+}
+header h1 {
+  margin: 0;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+nav a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+/* Conteúdo principal */
+main {
+  margin: 20px;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Figuras e legendas */
+figure {
+  margin: 0 0 20px 0;
+  text-align: center;
+}
+figure img {
+  max-width: 65%;
+  height: auto;
+}
+figcaption {
+  font-size: 0.9em;
+  color: #333;
+}
+
+/* Sessões e listas */
+section h2 {
+  margin-top: 0;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+/* Card de personagem */
+.personagem {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* Rodapé */
+footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
