@@ -1,0 +1,27 @@
+body{
+	margin-left:40%;
+	background-image: url("../capasimg/fundo.jpg");
+	
+	
+}
+.texto{
+	color: red;
+	margin-right: 50%;
+}
+footer
+{
+	background: rgb(110,15,15);
+	border-style: solid;
+	border-width: 10px;
+	border-color: rgb(60,14,14);
+	margin-right: 60%;
+	font-size: 300%;
+	
+}
+.t{color: black;}
+.banner {
+	display: block;
+	margin: 0 auto;
+	margin-left: -65%;
+	margin-top: 20%;
+}
